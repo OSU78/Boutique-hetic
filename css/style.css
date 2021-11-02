@@ -194,30 +194,16 @@ nav{
     transition: .3s;
     padding: 2%;
 }
-.card_head_img1 {
-    background-image: url("/ressources/images/product0.jpeg");
-}
-.card_head_img2 {
-    background-image: url("/ressources/images/product1.jpg");
-}
-.card_head_img3 {
-    background-image: url("/ressources/images/product6.jpg");
-}
-.card_head_img4 {
-    background-image: url("/ressources/images/product2.jpg");
-}
 
-.card_head_img5 {
-    background-image: url("/ressources/images/product4.jpg");
-}
-
-.card_head_img6 {
-    background-image: url("/ressources/images/product9.jpg");
-}
-
-.card_head_img8 {
-    background-image: url("/ressources/images/product10.jpg");
-}
+/*
+.card_head_img1 {background-image: url("/ressources/images/product0.jpeg");}
+.card_head_img2 {background-image: url("/ressources/images/product1.jpg");}
+.card_head_img3 {background-image: url("/ressources/images/product6.jpg");}
+.card_head_img4 {background-image: url("/ressources/images/product2.jpg");}
+.card_head_img5 {background-image: url("/ressources/images/product4.jpg");}
+.card_head_img6 {background-image: url("/ressources/images/product9.jpg");}
+.card_head_img8 {background-image: url("/ressources/images/product10.jpg");}
+*/
 .card_head:hover{
     filter: grayscale(0.7);
     transition: .3s;

@@ -1,0 +1,3 @@
+@each $imgs in img1,img2,img3,img4,img5,img6,img8,img9,img10 {
+    .card_head_#{$imgs} {background-image: url("/ressources/image-scss/card_head_#{$imgs}.jpg");}
+}
